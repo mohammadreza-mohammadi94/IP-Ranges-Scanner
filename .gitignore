@@ -134,5 +134,4 @@ dmypy.json
 Thumbs.db
 
 # Project specific
-ip_zones/
 *.zone
